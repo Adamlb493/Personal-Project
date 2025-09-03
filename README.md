@@ -6,4 +6,5 @@ For now, this project is still in development, but feel free to check it out fro
 
 If you have any questions, feel free to contact me at adamlb493@gmail.com
 
-CHANGELOG: (To Be Developed on)
+CHANGELOG:
+Sept 3rd, 2025 - initialized .devcontianer and dependabot, connecting GitHub and Docker to IDE.
